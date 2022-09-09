@@ -1,0 +1,123 @@
+@font-face {
+  font-family: 'coeso-font';
+  src:  url('fonts/coeso-font.eot?uhuax5');
+  src:  url('fonts/coeso-font.eot?uhuax5#iefix') format('embedded-opentype'),
+    url('fonts/coeso-font.ttf?uhuax5') format('truetype'),
+    url('fonts/coeso-font.woff?uhuax5') format('woff'),
+    url('fonts/coeso-font.svg?uhuax5#coeso-font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'coeso-font' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-diary:before {
+  content: "\e900";
+}
+.icon-home:before {
+  content: "\e901";
+}
+.icon-info:before {
+  content: "\e902";
+}
+.icon-setting:before {
+  content: "\e903";
+}
+.icon-setup:before {
+  content: "\e904";
+}
+.icon-team:before {
+  content: "\e905";
+}
+.icon-tools:before {
+  content: "\e906";
+}
+.icon-blog:before {
+  content: "\e907";
+}
+.icon-calendar:before {
+  content: "\e908";
+}
+.icon-email:before {
+  content: "\e909";
+}
+.icon-file-storage:before {
+  content: "\e90a";
+}
+.icon-instant-messaging:before {
+  content: "\e90b";
+}
+.icon-meeting-scheduling:before {
+  content: "\e90c";
+}
+.icon-personal-notes:before {
+  content: "\e90d";
+}
+.icon-social-networks:before {
+  content: "\e90e";
+}
+.icon-video-conference:before {
+  content: "\e90f";
+}
+.icon-web-communication:before {
+  content: "\e910";
+}
+.icon-word-processor:before {
+  content: "\e911";
+}
+.icon-private:before {
+  content: "\e912";
+}
+.icon-public:before {
+  content: "\e913";
+}
+.icon-done:before {
+  content: "\e914";
+}
+.icon-welcome:before {
+  content: "\e915";
+}
+.icon-Sort_alfa:before {
+  content: "\e916";
+}
+.icon-bold:before {
+  content: "\e917";
+}
+.icon-image:before {
+  content: "\e918";
+}
+.icon-link:before {
+  content: "\e919";
+}
+.icon-underline:before {
+  content: "\e91a";
+}
+.icon-collaborate:before {
+  content: "\e91b";
+}
+.icon-more-options:before {
+  content: "\e91c";
+}
+.icon-promote:before {
+  content: "\e91d";
+}
+.icon-share:before {
+  content: "\e91e";
+}
+.icon-Trash:before {
+  content: "\e91f";
+}
