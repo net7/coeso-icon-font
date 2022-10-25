@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'coeso-font';
-  src:  url('fonts/coeso-font.eot?gyd1m8');
-  src:  url('fonts/coeso-font.eot?gyd1m8#iefix') format('embedded-opentype'),
-    url('fonts/coeso-font.ttf?gyd1m8') format('truetype'),
-    url('fonts/coeso-font.woff?gyd1m8') format('woff'),
-    url('fonts/coeso-font.svg?gyd1m8#coeso-font') format('svg');
+  src:  url('fonts/coeso-font.eot?a829ri');
+  src:  url('fonts/coeso-font.eot?a829ri#iefix') format('embedded-opentype'),
+    url('fonts/coeso-font.ttf?a829ri') format('truetype'),
+    url('fonts/coeso-font.woff?a829ri') format('woff'),
+    url('fonts/coeso-font.svg?a829ri#coeso-font') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,96 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-academic:before {
+  content: "\e929";
+}
+.icon-account:before {
+  content: "\e92a";
+}
+.icon-activist:before {
+  content: "\e92b";
+}
+.icon-advanced:before {
+  content: "\e92c";
+}
+.icon-amateur:before {
+  content: "\e92d";
+}
+.icon-arrow-down:before {
+  content: "\e92e";
+}
+.icon-basic-info:before {
+  content: "\e92f";
+}
+.icon-collaboration:before {
+  content: "\e930";
+}
+.icon-community:before {
+  content: "\e931";
+}
+.icon-created-on:before {
+  content: "\e932";
+}
+.icon-created-on-variant:before {
+  content: "\e933";
+}
+.icon-dash:before {
+  content: "\e934";
+}
+.icon-deadline:before {
+  content: "\e935";
+}
+.icon-domain-expert:before {
+  content: "\e936";
+}
+.icon-export:before {
+  content: "\e937";
+}
+.icon-filter:before {
+  content: "\e938";
+}
+.icon-find-funding:before {
+  content: "\e939";
+}
+.icon-funded:before {
+  content: "\e93a";
+}
+.icon-funding:before {
+  content: "\e93b";
+}
+.icon-link:before {
+  content: "\e93c";
+}
+.icon-network:before {
+  content: "\e93d";
+}
+.icon-plus:before {
+  content: "\e93e";
+}
+.icon-policy-maker:before {
+  content: "\e93f";
+}
+.icon-search:before {
+  content: "\e940";
+}
+.icon-topics:before {
+  content: "\e941";
+}
+.icon-view-profile:before {
+  content: "\e942";
+}
+.icon-volunteer:before {
+  content: "\e943";
+}
+.icon-twitter:before {
+  content: "\e944";
+}
+.icon-facebook:before {
+  content: "\e945";
+}
+.icon-linkedin:before {
+  content: "\e946";
+}
 .icon-diary:before {
   content: "\e900";
 }
@@ -106,13 +196,13 @@
 .icon-image:before {
   content: "\e918";
 }
-.icon-link:before {
+.icon-link1:before {
   content: "\e919";
 }
 .icon-underline:before {
   content: "\e91a";
 }
-.icon-arrow-down:before {
+.icon-arrow-down1:before {
   content: "\e920";
 }
 .icon-arrow-left:before {
