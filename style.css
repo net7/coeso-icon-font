@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'coeso-font';
-  src:  url('fonts/coeso-font.eot?a829ri');
-  src:  url('fonts/coeso-font.eot?a829ri#iefix') format('embedded-opentype'),
-    url('fonts/coeso-font.ttf?a829ri') format('truetype'),
-    url('fonts/coeso-font.woff?a829ri') format('woff'),
-    url('fonts/coeso-font.svg?a829ri#coeso-font') format('svg');
+  src:  url('fonts/coeso-font.eot?r0kaqz');
+  src:  url('fonts/coeso-font.eot?r0kaqz#iefix') format('embedded-opentype'),
+    url('fonts/coeso-font.ttf?r0kaqz') format('truetype'),
+    url('fonts/coeso-font.woff?r0kaqz') format('woff'),
+    url('fonts/coeso-font.svg?r0kaqz#coeso-font') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-link-variant:before {
+  content: "\e947";
+}
 .icon-academic:before {
   content: "\e929";
 }
