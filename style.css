@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'coeso-font';
-  src:  url('fonts/coeso-font.eot?r0kaqz');
-  src:  url('fonts/coeso-font.eot?r0kaqz#iefix') format('embedded-opentype'),
-    url('fonts/coeso-font.ttf?r0kaqz') format('truetype'),
-    url('fonts/coeso-font.woff?r0kaqz') format('woff'),
-    url('fonts/coeso-font.svg?r0kaqz#coeso-font') format('svg');
+  src:  url('fonts/coeso-font.eot?jord4v');
+  src:  url('fonts/coeso-font.eot?jord4v#iefix') format('embedded-opentype'),
+    url('fonts/coeso-font.ttf?jord4v') format('truetype'),
+    url('fonts/coeso-font.woff?jord4v') format('woff'),
+    url('fonts/coeso-font.svg?jord4v#coeso-font') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -85,7 +85,7 @@
 .icon-funding:before {
   content: "\e93b";
 }
-.icon-link:before {
+.icon-url:before {
   content: "\e93c";
 }
 .icon-network:before {
@@ -199,22 +199,22 @@
 .icon-image:before {
   content: "\e918";
 }
-.icon-link1:before {
+.icon-link:before {
   content: "\e919";
 }
 .icon-underline:before {
   content: "\e91a";
 }
-.icon-arrow-down1:before {
+.icon-chevron-down:before {
   content: "\e920";
 }
-.icon-arrow-left:before {
+.icon-chevron-left:before {
   content: "\e921";
 }
-.icon-arrow-up:before {
+.icon-chevron-up:before {
   content: "\e922";
 }
-.icon-arrow-right:before {
+.icon-chevron-right:before {
   content: "\e923";
 }
 .icon-logout:before {
