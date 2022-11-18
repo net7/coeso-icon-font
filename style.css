@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'coeso-font';
-  src:  url('fonts/coeso-font.eot?ypmk2j');
-  src:  url('fonts/coeso-font.eot?ypmk2j#iefix') format('embedded-opentype'),
-    url('fonts/coeso-font.ttf?ypmk2j') format('truetype'),
-    url('fonts/coeso-font.woff?ypmk2j') format('woff'),
-    url('fonts/coeso-font.svg?ypmk2j#coeso-font') format('svg');
+  src:  url('fonts/coeso-font.eot?ldhmoc');
+  src:  url('fonts/coeso-font.eot?ldhmoc#iefix') format('embedded-opentype'),
+    url('fonts/coeso-font.ttf?ldhmoc') format('truetype'),
+    url('fonts/coeso-font.woff?ldhmoc') format('woff'),
+    url('fonts/coeso-font.svg?ldhmoc#coeso-font') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,18 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-find-funding:before {
+  content: "\e939";
+}
+.icon-missing-info:before {
+  content: "\e94a";
+}
+.icon-spoken-languages:before {
+  content: "\e94b";
+}
+.icon-featured:before {
+  content: "\e94c";
+}
 .icon-location:before {
   content: "\e948";
 }
@@ -81,9 +93,6 @@
 }
 .icon-filter:before {
   content: "\e938";
-}
-.icon-find-funding:before {
-  content: "\e939";
 }
 .icon-funded:before {
   content: "\e93a";

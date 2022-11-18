@@ -13,6 +13,10 @@
 		el.innerHTML = '<span style="font-family: \'coeso-font\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'icon-find-funding': '&#xe939;',
+		'icon-missing-info': '&#xe94a;',
+		'icon-spoken-languages': '&#xe94b;',
+		'icon-featured': '&#xe94c;',
 		'icon-location': '&#xe948;',
 		'icon-joined': '&#xe949;',
 		'icon-link-variant': '&#xe947;',
@@ -32,7 +36,6 @@
 		'icon-domain-expert': '&#xe936;',
 		'icon-export': '&#xe937;',
 		'icon-filter': '&#xe938;',
-		'icon-find-funding': '&#xe939;',
 		'icon-funded': '&#xe93a;',
 		'icon-funding': '&#xe93b;',
 		'icon-url': '&#xe93c;',
