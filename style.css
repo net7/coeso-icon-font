@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'coeso-font';
-  src:  url('fonts/coeso-font.eot?f91uni');
-  src:  url('fonts/coeso-font.eot?f91uni#iefix') format('embedded-opentype'),
-    url('fonts/coeso-font.ttf?f91uni') format('truetype'),
-    url('fonts/coeso-font.woff?f91uni') format('woff'),
-    url('fonts/coeso-font.svg?f91uni#coeso-font') format('svg');
+  src:  url('fonts/coeso-font.eot?rw61cd');
+  src:  url('fonts/coeso-font.eot?rw61cd#iefix') format('embedded-opentype'),
+    url('fonts/coeso-font.ttf?rw61cd') format('truetype'),
+    url('fonts/coeso-font.woff?rw61cd') format('woff'),
+    url('fonts/coeso-font.svg?rw61cd#coeso-font') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,10 +25,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-Image:before {
+.icon-image:before {
   content: "\e94e";
 }
-.icon-File:before {
+.icon-file:before {
   content: "\e94d";
 }
 .icon-find-funding:before {
@@ -85,7 +85,7 @@
 .icon-created-on-variant:before {
   content: "\e933";
 }
-.icon-dash:before {
+.icon-minus:before {
   content: "\e934";
 }
 .icon-deadline:before {
@@ -217,7 +217,7 @@
 .icon-bold:before {
   content: "\e917";
 }
-.icon-image:before {
+.icon-image1:before {
   content: "\e918";
 }
 .icon-link:before {

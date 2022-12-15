@@ -13,8 +13,8 @@
 		el.innerHTML = '<span style="font-family: \'coeso-font\'">' + entity + '</span>' + html;
 	}
 	var icons = {
-		'icon-Image': '&#xe94e;',
-		'icon-File': '&#xe94d;',
+		'icon-image': '&#xe94e;',
+		'icon-file': '&#xe94d;',
 		'icon-find-funding': '&#xe939;',
 		'icon-missing-info': '&#xe94a;',
 		'icon-spoken-languages': '&#xe94b;',
@@ -33,7 +33,7 @@
 		'icon-community': '&#xe931;',
 		'icon-created-on': '&#xe932;',
 		'icon-created-on-variant': '&#xe933;',
-		'icon-dash': '&#xe934;',
+		'icon-minus': '&#xe934;',
 		'icon-deadline': '&#xe935;',
 		'icon-domain-expert': '&#xe936;',
 		'icon-export': '&#xe937;',
@@ -77,7 +77,7 @@
 		'icon-welcome': '&#xe915;',
 		'icon-sort-alfa': '&#xe916;',
 		'icon-bold': '&#xe917;',
-		'icon-image': '&#xe918;',
+		'icon-image1': '&#xe918;',
 		'icon-link': '&#xe919;',
 		'icon-underline': '&#xe91a;',
 		'icon-chevron-down': '&#xe920;',

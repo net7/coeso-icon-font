@@ -1,7 +1,7 @@
-.icon-Image {
+.icon-image {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94e;');
 }
-.icon-File {
+.icon-file {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94d;');
 }
 .icon-find-funding {
@@ -58,7 +58,7 @@
 .icon-created-on-variant {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe933;');
 }
-.icon-dash {
+.icon-minus {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe934;');
 }
 .icon-deadline {
@@ -190,7 +190,7 @@
 .icon-bold {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe917;');
 }
-.icon-image {
+.icon-image1 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe918;');
 }
 .icon-link {
