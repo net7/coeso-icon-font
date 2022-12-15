@@ -13,6 +13,7 @@
 		el.innerHTML = '<span style="font-family: \'coeso-font\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'icon-File': '&#xe94d;',
 		'icon-find-funding': '&#xe939;',
 		'icon-missing-info': '&#xe94a;',
 		'icon-spoken-languages': '&#xe94b;',
