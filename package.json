@@ -1,6 +1,6 @@
 {
   "name": "coeso-icons",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Icons for the COESO/VERA project.",
   "main": "index.js",
   "scripts": {
