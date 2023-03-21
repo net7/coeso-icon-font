@@ -14,6 +14,8 @@
 	}
 	var icons = {
 		'icon-alert-solid': '&#xe933;',
+		'icon-confirm-solid': '&#xe94f;',
+		'icon-failure-solid': '&#xe950;',
 		'icon-match': '&#xe931;',
 		'icon-Data_access_open': '&#xe919;',
 		'icon-Data_access_close': '&#xe91a;',
