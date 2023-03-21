@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'coeso-font';
-  src:  url('fonts/coeso-font.eot?atkr41');
-  src:  url('fonts/coeso-font.eot?atkr41#iefix') format('embedded-opentype'),
-    url('fonts/coeso-font.ttf?atkr41') format('truetype'),
-    url('fonts/coeso-font.woff?atkr41') format('woff'),
-    url('fonts/coeso-font.svg?atkr41#coeso-font') format('svg');
+  src:  url('fonts/coeso-font.eot?63orix');
+  src:  url('fonts/coeso-font.eot?63orix#iefix') format('embedded-opentype'),
+    url('fonts/coeso-font.ttf?63orix') format('truetype'),
+    url('fonts/coeso-font.woff?63orix') format('woff'),
+    url('fonts/coeso-font.svg?63orix#coeso-font') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,7 +25,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-Match:before {
+.icon-alert-solid:before {
+  content: "\e933";
+}
+.icon-match:before {
   content: "\e931";
 }
 .icon-Data_access_open:before {
@@ -157,7 +160,7 @@
 .icon-home:before {
   content: "\e901";
 }
-.icon-info:before {
+.icon-info-solid:before {
   content: "\e902";
 }
 .icon-setting:before {

@@ -13,7 +13,8 @@
 		el.innerHTML = '<span style="font-family: \'coeso-font\'">' + entity + '</span>' + html;
 	}
 	var icons = {
-		'icon-Match': '&#xe931;',
+		'icon-alert-solid': '&#xe933;',
+		'icon-match': '&#xe931;',
 		'icon-Data_access_open': '&#xe919;',
 		'icon-Data_access_close': '&#xe91a;',
 		'icon-open-in-new-tab': '&#xe918;',
@@ -57,7 +58,7 @@
 		'icon-linkedin': '&#xe946;',
 		'icon-diary': '&#xe900;',
 		'icon-home': '&#xe901;',
-		'icon-info': '&#xe902;',
+		'icon-info-solid': '&#xe902;',
 		'icon-setting': '&#xe903;',
 		'icon-setup': '&#xe904;',
 		'icon-team': '&#xe905;',
