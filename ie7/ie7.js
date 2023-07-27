@@ -13,6 +13,7 @@
 		el.innerHTML = '<span style="font-family: \'coeso-font\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'icon-workflow-party': '&#xe951;',
 		'icon-alert-solid': '&#xe933;',
 		'icon-confirm-solid': '&#xe94f;',
 		'icon-failure-solid': '&#xe950;',

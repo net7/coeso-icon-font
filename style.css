@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'coeso-font';
-  src:  url('fonts/coeso-font.eot?3somer');
-  src:  url('fonts/coeso-font.eot?3somer#iefix') format('embedded-opentype'),
-    url('fonts/coeso-font.ttf?3somer') format('truetype'),
-    url('fonts/coeso-font.woff?3somer') format('woff'),
-    url('fonts/coeso-font.svg?3somer#coeso-font') format('svg');
+  src:  url('fonts/coeso-font.eot?36yx20');
+  src:  url('fonts/coeso-font.eot?36yx20#iefix') format('embedded-opentype'),
+    url('fonts/coeso-font.ttf?36yx20') format('truetype'),
+    url('fonts/coeso-font.woff?36yx20') format('woff'),
+    url('fonts/coeso-font.svg?36yx20#coeso-font') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-workflow-party:before {
+  content: "\e951";
+}
 .icon-alert-solid:before {
   content: "\e933";
 }
