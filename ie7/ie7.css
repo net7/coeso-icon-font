@@ -1,3 +1,9 @@
+.icon-diary-comment {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe952;');
+}
+.icon-diary-like {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe953;');
+}
 .icon-workflow-party {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe951;');
 }
