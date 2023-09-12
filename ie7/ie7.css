@@ -1,3 +1,6 @@
+.icon-like-solid {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe954;');
+}
 .icon-diary-comment {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe952;');
 }
